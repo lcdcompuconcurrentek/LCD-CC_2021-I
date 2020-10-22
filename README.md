@@ -1,5 +1,5 @@
 # LCD-CC_2021-I
-Codigos para la materia de computacion concurrente.\n
+Codigos para la materia de computacion concurrente. --
 Integrantes:\n
 Yañez Espindola Jose Marcos\n
 José David Vázquez Rojas\n
