@@ -4,5 +4,5 @@ Integrantes:<br>
 Jose Marcos Yañez Espindola (Ingenieria en Computacion) https://es.overleaf.com/1734796582ycrrcwsjtdwk
 <br>
 José David Vázquez Rojas (Matematicas Aplicadas y Comutacion)<br>
-Hugo Carlos Morán Peraza (Matematicas) https://www.overleaf.com/project/5f9ae4ef3a3a6f0001ca3160<br>
+Hugo Carlos Morán Peraza (Matematicas) https://www.overleaf.com/read/ytgsnpvphnqr<br>
 Luis Fernando Flores Tiburcio (Matematicas)<br>
