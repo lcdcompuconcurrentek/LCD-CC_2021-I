@@ -1,0 +1,31 @@
+class Monitor:
+  contador = 0
+  N=100
+  buffer = array[N-1]
+  def insertar():
+    if (contador=N):
+      sleep()
+    contador=contador+1    # Sección Crítica
+    buffer.push(producto)  # Sección Crítica
+    wakeup(consumidor)
+ 
+  def extraer():
+    if (contador=0):
+      sleep()
+    contador=contador-1  # Sección Crítica
+    item=buffer.pop()    # Sección Crítica
+    wakeup(productor)
+
+
+buffer = Monitor()
+
+def codigo_productor():    
+  while(true):
+    buffer.insertar()
+
+def codigo_consumidor():    
+      while(true):
+        buffer.extraer()
+
+productor = Process(codigo_productor())
+consumidor = Process(codigo_consumidor())
